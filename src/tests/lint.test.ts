@@ -14,19 +14,8 @@ describe('getKey', () => {
   test('Error is thrown on empty header', () => {
     expect(getAPIKey(invalidTestHeader)).toBeNull()
   })
-   test('Failing test to trigger CI warning', () => {
-    expect(getAPIKey(validTestHeader)).toBeTypeOf("boolean")
-  })
 
 
 })
-
-
-
-
-
-
-
-
 
 
