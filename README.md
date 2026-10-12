@@ -28,3 +28,4 @@ JUAN GRANADOS version of boot.dev's Notely app
 
 
 [![ci](https://github.com/Jg12cali/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/Jg12cali/learn-cicd-typescript-starter/actions/workflows/ci.yml)
+
