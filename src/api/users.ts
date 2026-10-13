@@ -41,9 +41,3 @@ function generateRandomSHA256Hash(): string {
     .digest("hex");
 }
 
-function useLess101() {
-
-  
-
-
-}
