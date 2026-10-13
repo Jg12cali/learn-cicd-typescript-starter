@@ -14,7 +14,3 @@ export function getAPIKey(headers: IncomingHttpHeaders): string | null {
   return splitAuth[1];
 }
 
-const validTestHeader = {
-  authorization: "ApiKey_4f9a2c7e81b3d65a09e4c1f7b2d8a3e6_xxxx",
-};
-const invalidTestHeader = {};
